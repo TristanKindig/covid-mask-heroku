@@ -1,1 +1,1 @@
-bin/server
+web: julia --project bin/repl $PORT
