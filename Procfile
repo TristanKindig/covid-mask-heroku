@@ -1,1 +1,1 @@
-web: julia --project bin/repl $PORT
+web: bin/repl $PORT
