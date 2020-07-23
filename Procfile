@@ -1,1 +1,1 @@
-web: bin/repl $PORT
+web: bin/repl
