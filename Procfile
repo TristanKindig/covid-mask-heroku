@@ -1,1 +1,1 @@
-web: bin/repl
+web: bin/server
