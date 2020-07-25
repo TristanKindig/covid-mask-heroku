@@ -1,2 +1,2 @@
 web: bin/server
-environment: EARLYBIND=true
+  environment: - EARLYBIND=true
