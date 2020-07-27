@@ -1,2 +1,2 @@
-web: bin/server
+web: bin/server $PORT
   environment: EARLYBIND=true
